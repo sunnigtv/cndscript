@@ -7,10 +7,10 @@ namespace es
 	{
 		namespace lnput
 		{
-			void input(char c)
+			void input(char c2)
 			{
-				scanf_s("%c", &c);
-				printf("%c\n", c);
+				scanf_s("%c", &c2);
+				printf("%c", c2);
 			}
 		}
 		namespace output

@@ -1,2 +1,2 @@
 #include "Input and output.h"
-#include "Calculation.h"
+#include "data.h"
